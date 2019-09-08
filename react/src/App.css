@@ -1,0 +1,69 @@
+body {
+  background: #f5f6fa;
+}
+.Header {
+  width: 100%;
+  margin-top: 50px;
+  height: 30px;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #50535a;
+}
+
+.contentList {
+  margin-top: 70px;
+}
+.tableList {
+  width: 100%;
+  border-radius: 5px;
+  background-color: #ffffff;
+}
+.tableList thead {
+  height: 52px;
+  border-radius: 5px;
+  background-color: #ffffff;
+}
+.tableList thead th {
+  height: 52px;
+  object-fit: contain;
+  font-size: 15px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.01px;
+  color: #50535a;
+}
+.tableList tbody td {
+  font-size: 12px;
+  height: 52px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #50535a;
+}
+
+.tableList tbody button{
+  width: 90px;
+  height: 24px;
+  object-fit: contain;
+  border: none;
+  background: #954b97;
+  color: white;
+  border-radius: 4px;
+}
+
+.colorNumber{
+  color: #00a9e0 !important;
+}
+.colorStatus{
+  color: #5bc500 !important; 
+}
